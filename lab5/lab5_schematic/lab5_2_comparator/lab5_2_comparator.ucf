@@ -1,0 +1,9 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "LED0" LOC = AA23;
+NET "LED1" LOC = AA24;
+NET "PSW0" LOC = AD15;
+NET "PSW1" LOC = AD19;
+NET "PSW2" LOC = AD23;
+NET "PSW3" LOC = AF21;
